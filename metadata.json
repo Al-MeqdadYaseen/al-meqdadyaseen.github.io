@@ -1,0 +1,6 @@
+{
+  "name": "Cyberpunk Portfolio",
+  "description": "Bilingual portfolio website of AlMeqdad Yaseen, specializing in AI Agents and intelligent automation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
